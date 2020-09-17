@@ -1,0 +1,2 @@
+language = "swift"
+run = "swiftc -o main main.swift && ./main"
